@@ -1,0 +1,14 @@
+[
+  {
+    "Name of Clause": "Example QBE Clause",
+    "Limit": "Up to US$ 100,000",
+    "Description": "This is a sample QBE clause description. Replace with actual wording.",
+    "Keywords": ["fire", "brigade", "extinguishing", "expenses"]
+  },
+  {
+    "Name of Clause": "Another QBE Clause",
+    "Limit": "As Agreed",
+    "Description": "Another placeholder clause for QBE. Replace with real content.",
+    "Keywords": ["surveyors", "fees"]
+  }
+]

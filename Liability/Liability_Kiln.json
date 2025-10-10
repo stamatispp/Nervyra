@@ -1,0 +1,266 @@
+[
+  {
+    "Name of Clause": "North American Conditions",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["North", "American", "Conditions"]
+  },
+  {
+    "Name of Clause": "Including Liability arising out of Ownership of Passenger Lifts, Hoists, Cranes, Elevators, Walkalators, Use of Mechanically propelled equipment’s in & around the premises of the insured",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Lifts", "Hoists", "Cranes", "Elevators", "Walkalators", "Mechanically propelled"]
+  },
+  {
+    "Name of Clause": "Including liability arising from defective sanitary arrangements",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Defective", "Sanitary", "Arrangements"]
+  },
+  {
+    "Name of Clause": "Including Tenant’s Liability",
+    "Content Type": "Extension",
+    "Limit": "USD 250,000 aggregate",
+    "Keywords": ["Tenant", "Liability"]
+  },
+  {
+    "Name of Clause": "Including Liability arising out of the use of non-registered motorized / mobile plant, forklifts, cranes etc. at the premises of the insured",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Motorized", "Mobile", "Plant", "Forklifts", "Cranes"]
+  },
+  {
+    "Name of Clause": "Including Liability arising out of Fire & Explosion",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Fire", "Explosion"]
+  },
+  {
+    "Name of Clause": "Including Waiver of Subrogation against Principal, where contractually required",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Waiver", "Subrogation", "Principal"]
+  },
+  {
+    "Name of Clause": "Including Liability arising out of food & drinks supplied at the premises",
+    "Content Type": "Extension",
+    "Limit": "USD 500,000 AOO / Aggregate",
+    "Keywords": ["Food", "Drinks", "Premises"]
+  },
+  {
+    "Name of Clause": "Including Liability arising out of incidental First Aid Treatments",
+    "Content Type": "Extension",
+    "Limit": "USD 500,000 AOO / Aggregate (excluding Medical Malpractice)",
+    "Keywords": ["First Aid", "Treatments", "Medical"]
+  },
+  {
+    "Name of Clause": "Liability arising out of Neon & Advertising Signs installed at the insured premises",
+    "Content Type": "Extension",
+    "Limit": "USD 500,000 AOO / Aggregate",
+    "Keywords": ["Neon", "Advertising", "Signs"]
+  },
+  {
+    "Name of Clause": "Including liability arising from damage to directors’ / employees’ / visitors’ personal effects",
+    "Content Type": "Extension",
+    "Limit": "USD 10,000 per article and USD 100,000 aggregate",
+    "Keywords": ["Directors", "Employees", "Visitors", "Personal effects"]
+  },
+  {
+    "Name of Clause": "Primary Insurance",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Primary", "Insurance"]
+  },
+  {
+    "Name of Clause": "Cross Liability Clause",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Cross", "Liability"]
+  },
+  {
+    "Name of Clause": "Automobile Liability in excess of mandatory auto liability limits and/or Contingent auto liability",
+    "Content Type": "Extension",
+    "Limit": "USD 50,000 or higher as per law",
+    "Keywords": ["Automobile", "Auto", "Contingent"]
+  },
+  {
+    "Name of Clause": "Personal Liability extension for non-manual employees travelling abroad on business trips",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Personal", "Employees", "Travelling", "Abroad"]
+  },
+  {
+    "Name of Clause": "Car parks legal liability for parking areas",
+    "Content Type": "Extension",
+    "Limit": "Subject to deductible of USD 10,000",
+    "Keywords": ["Car park", "Parking", "Liability", "Car Parks"]
+  },
+  {
+    "Name of Clause": "Loading and unloading liability",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Loading", "Unloading"]
+  },
+  {
+    "Name of Clause": "Lifts, hoists and escalators liability",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Lifts", "Hoists", "Escalators"]
+  },
+  {
+    "Name of Clause": "Wrongful arrest, defamation",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Wrongful arrest", "Defamation"]
+  },
+  {
+    "Name of Clause": "Owners and Landlords Liability Insurance",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Owners", "Landlords", "Liability"]
+  },
+  {
+    "Name of Clause": "Completed Operations and Product Liability Insurance",
+    "Content Type": "Extension",
+    "Limit": "Aggregate",
+    "Keywords": ["Completed operations", "Product liability"]
+  },
+  {
+    "Name of Clause": "Contractual Liability Insurance",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Contractual", "Liability"]
+  },
+  {
+    "Name of Clause": "Including liability arising out of fire, explosion, collapse, smoke",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Fire", "Explosion", "Collapse", "Smoke"]
+  },
+  {
+    "Name of Clause": "Expenditure Incurred to minimize personal injury or property damage",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Expenditure", "Personal injury", "Property damage"]
+  },
+  {
+    "Name of Clause": "Property under Care, Custody & Control",
+    "Content Type": "Extension",
+    "Limit": "USD 250,000 AOO / Aggregate (subject to AP)",
+    "Keywords": ["Property", "Care", "Custody", "Control"]
+  },
+  {
+    "Name of Clause": "Principal’s existing and surrounding properties",
+    "Content Type": "Extension",
+    "Limit": "USD 250,000 AOO / Aggregate (subject to AP)",
+    "Keywords": ["Principal", "Properties", "Surrounding"]
+  },
+  {
+    "Name of Clause": "Property being worked upon",
+    "Content Type": "Extension",
+    "Limit": "USD 250,000 AOO / Aggregate (Refer only)",
+    "Keywords": ["Property", "Worked upon"]
+  },
+  {
+    "Name of Clause": "Oil & Gas Conditions",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Oil", "Gas"]
+  },
+  {
+    "Name of Clause": "Including Work Away Risks",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Work away", "Risks"]
+  },
+  {
+    "Name of Clause": "Liability towards guest and their belongings",
+    "Content Type": "Extension",
+    "Limit": "USD 100,000 AOO / Aggregate",
+    "Keywords": ["Guest", "Belongings"]
+  },
+  {
+    "Name of Clause": "Including liability for offices, premises, camp sites",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Offices", "Premises", "Camp sites"]
+  },
+  {
+    "Name of Clause": "Including Liability arising out of temporary business visits worldwide",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Business visits", "Worldwide", "Training"]
+  },
+  {
+    "Name of Clause": "Including Liability arising out of registered and non-registered motorised / mobile plant",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Motorised", "Mobile plant", "Forklifts", "Cranes"]
+  },
+  {
+    "Name of Clause": "Valet Parking",
+    "Content Type": "Extension",
+    "Limit": "USD 100,000 AOO / Aggregate subject to deductible of USD 10,000 (AP)",
+    "Keywords": ["Valet", "Parking"]
+  },
+  {
+    "Name of Clause": "Families of employees when acting in individual capacity are included as third parties",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Families", "Employees", "Third parties"]
+  },
+  {
+    "Name of Clause": "Including sports and social events organized by insured",
+    "Content Type": "Extension",
+    "Limit": "10% of policy limit (max USD 500,000 aggregate)",
+    "Keywords": ["Sports", "Social events"]
+  },
+  {
+    "Name of Clause": "Trade Fair, Exhibition and Sales Promotion Activities Clause",
+    "Content Type": "Extension",
+    "Limit": "10% of policy limit (max USD 500,000 aggregate)",
+    "Keywords": ["Trade fair", "Exhibition", "Sales promotion"]
+  },
+  {
+    "Name of Clause": "Including liability towards guests or visitors",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Guests", "Visitors"]
+  },
+  {
+    "Name of Clause": "Gymnasium & Swimming Pool on premises",
+    "Content Type": "Extension",
+    "Limit": "30% of policy limit (max USD 500,000 aggregate)",
+    "Keywords": ["Gymnasium", "Swimming pool"]
+  },
+  {
+    "Name of Clause": "Outdoor Satellite and Antennas owned by the insured",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Satellite", "Antennas"]
+  },
+  {
+    "Name of Clause": "Including Liability arising out of internal Catering Services",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Catering", "Internal"]
+  },
+  {
+    "Name of Clause": "Including liability in respect of outside catering",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Outside catering", "Liability", "Respect"]
+  },
+  {
+    "Name of Clause": "Including liability incurred by the insured arising from gym, spa, swimming pool, Jacuzzi, sauna & beauty / health treatment activities",
+    "Content Type": "Extension",
+    "Limit": "30% of policy limit (max USD 500,000 aggregate)",
+    "Keywords": ["Gym", "Spa", "Swimming pool", "Jacuzzi", "Sauna", "Beauty", "Health"]
+  },
+  {
+    "Name of Clause": "Liability of the insured arising from trips, falls or slips of guests",
+    "Content Type": "Extension",
+    "Limit": "",
+    "Keywords": ["Trips", "Falls", "Slips", "Guests"]
+  }
+]

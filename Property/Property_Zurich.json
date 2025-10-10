@@ -1,0 +1,681 @@
+[
+  {
+    "Name of Clause":"Acquisition of Property",
+    "Content Type":"Extension",
+    "Limit":"Up to 10% of Building Sum Insured",
+    "Description":"This coverage is usually afforded as an extension of your existing Building and/or Business Personal Property coverage. That is, if your policy already covers a building, you may extend your Building coverage to cover a building you acquire during the policy period.",
+    "Keywords":[
+      "Property",
+      "Acquisition"
+    ]
+  },
+  {
+    "Name of Clause":"Alteration and Repair Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 250,000",
+    "Description":"This Policy extends to cover the Insured for an amount not exceeding X% of the sum insured hereby for any one item, in respect of inadvertent under-insurance or incorrect valuation by “bona fide” error, accidental omission to insure any extension or addition to buildings and/or contents (other than stock-in-trade if insured on a declaration basis) during the currency of this Policy.  This extension applies on condition that the insured undertakes to advise the company each quarter of any such errors and omissions, and to pay the appropriate additional premium therein, and in any event the total amount payable shall not exceed the sum insured under the Policy.",
+    "Keywords":[
+      "Alteration",
+      "Repair",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Alternate Accommodation",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000",
+    "Description":"It is hereby declared and agreed that this policy is extended to cover the additional expenditure necessarily and reasonably incurred by the Insured in excess of the increase in cost of working clause for the provision of alternative accommodation and food for the Insured’s staff and family normally living in the premises and in removal costs and incidental expenses..",
+    "Keywords":[
+      "Alternate",
+      "Accommodation"
+    ]
+  },
+  {
+    "Name of Clause":"Architects, Surveyors, Consultants & Legal Fees",
+    "Content Type":"Extension",
+    "Limit":"Up to 10% of claim amount",
+    "Description":"The sums insured on the Building(s), Machinery and Plant described in this Policy is declared to include Architects', Surveyors, Consulting, Legal and other fees (for estimates, plans, specifications, quantities, tenders and supervision) necessarily incurred in the reinstatement or replacement of said Building(s) Machinery and Plant following destruction or damage by any peril hereby in sured against excepting in so far as the Company elects to reinstate or replace wholly or in part any property so damaged or destroyed, but in no case exceeding X% of the sum payable under any item of this policy on such Building(s). It is understood and agreed that the amount payable in respect of such fees shall not include expenses incurred in connection with the preparation of the Insured's claim.",
+    "Keywords":[
+      "Architects",
+      "Surveyors",
+      "Legal",
+      "Fees",
+      "Consultants",
+	  "Professional"
+    ]
+  },
+  {
+    "Name of Clause":"Authorizing Repair Limit Clause",
+    "Content Type":"Condition",
+    "Limit":"Up to US$ 100,000",
+    "Description":"In respect of the Property covered hereunder, all costs of repairs and/or replacement including leviable duty and taxes for which insurers may be liable shall be on the basis of New for Old at the place of loss without taking into account and / or giving effect to depreciation or technological, functional or economic obsolescence except as hereunder mentioned. The rate and charges applicable for utilization of The Insured's owned or chartered vessels, crafts, equipment in the repair / replacement of a loss damage and the percentage of overheads thereon to be taken from the certified rates as arrived at by The Insured from time to time.",
+    "Keywords":[
+      "Clause",
+      "Limit",
+      "Repair",
+      "Authorizing"
+    ]
+  },
+  {
+    "Name of Clause":"Automatic Additions/Deletion Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to 20% of respective location",
+    "Description":"It is noted and agreed that the insurance provided by this Policy extends to include new acquisitions of additional companies up to a maximum value of X % of Buildings Sum Insured such acquisitions to be notified to Insurer(s) within X days of the acquisition. The Insured agrees to pay any additional premium thereby incurred. This extension of cover shall not apply to paint or plastic companies of any nature whatsoever.",
+    "Keywords":[
+      "Additions",
+      "Automatic",
+      "Clause",
+      "Deletion"
+    ]
+  },
+  {
+    "Name of Clause":"Automatic Reinstatement of Loss Clause",
+    "Content Type":"Extension",
+    "Limit":"At pro rata premium",
+    "Description":"In consideration of the sums insured not being reduced of any loss it is hereby declared and agreed that the Insured shall pay the appropriate extra premium on the amount of the loss from the date thereof to the date of the expiration of the period of insurance..",
+    "Keywords":[
+      "Reinstatement",
+      "Automatic",
+      "Loss",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Average Clause",
+    "Content Type":"Condition",
+    "Limit":"Up to 85%",
+    "Description":"When a sum insured is declared to be subject to the special condition of average then, if such sum shall at the breaking out of any fire or at the commencement of any destruction of or damage to the property by any other peril hereby insured against, be less than X% of the value of the Property Insured in that amount, the Insured shall be considered as being his own Insurer for the difference between the sum insured and the full value of the Property Insured at the time of such destruction or damage and shall bear a rateable share of the loss accordingly.",
+    "Keywords":[
+      "Average",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Betterment & Improvement",
+    "Content Type":"Condition",
+    "Limit":"Up to US$ 100,000",
+    "Description":"It is a condition of this Policy that the Underwriters accept and consider the Insured, in the event of loss or damage, in the position of sole and unconditional owner of the improvements and betterments made by the Insured to the Property Insured under this Policy and adjustment of losses and The Insurer's liability hereunder shall be made and admitted accordingly, irrespective of any adjustment of Claim under the lessor’s or building owner’s policies.",
+    "Keywords":[
+      "Betterment",
+      "Improvement"
+    ]
+  },
+  {
+    "Name of Clause":"Boiler Extension Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to 100,000",
+    "Description":"It is hereby expressly understood and agreed that this policy also covers loss or damage to the whole or any part of the property insured (including the boiler) caused by boiler explosion.",
+    "Keywords":[
+      "Boiler",
+      "Extension",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Book Debts Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 10,000",
+    "Description": "Subject to the limit of any one occurrence any one location, this Policy insures in respect of any location of the Insured within the Territorial Limits of this Policy: All sums due to the Insured from customers provided the Insured is unable to effect collection as the direct result of loss of or damage to records of accounts receivable. Interest charges on any loan to offset impaired collections pending repayment of such sums made uncollectible by such loss or damage. Collection expense in excess of normal collection cost and made necessary because of such loss or damage. Other expenses, when reasonably incurred by the Insured in re-establishing records of accounts receivable following such loss or damage. Removal: Such insurance as is afforded by this Policy applies while the records of accounts receivable are being removed to and while at a place of safety because of imminent danger of loss or damage and while being returned from such place. Exclusions: This Policy does not apply to loss due to bookkeeping, accounting or billing errors or omissions; to loss, the proof of which as to factual existence, is dependent upon an audit of records or an inventory computation; but this shall not preclude the use of such procedures in support of claim for loss which the Insured can prove through evidence wholly apart therefrom which is due to a risk of loss to records of accounts receivable not otherwise excluded hereunder; to loss, due to alteration, falsification, manipulation, concealment, destruction or disposal of records of accounts receivable committed to conceal the wrongful giving, taking, obtaining or withholding of money securities or other property but only to the extent of such wrongful giving, taking, obtaining or withholding. Inspection and Audit: The Insurer shall be permitted to inspect the premises and to examine and audit the Insured’s books and records at any time during the period of insurance and any extension thereto, and to verify the amount of recoveries of accounts receivable on which the Insurer has made any settlement. Recoveries: After payment of loss all amounts recovered by the Insured on accounts receivable for which the Insured has been indemnified shall belong and be paid to the insurer by the Insured up to the total amount of loss paid by the Insurer but all recoveries in excess of such amounts shall belong to the Insured. Deductions: There shall be deducted from the total amount of accounts receivable, however established, the amounts of such accounts evidenced by records not lost or damaged, or otherwise established or collected by the Insured, and an amount to allow for probable bad debts which would normally have been uncollectible by the Insured. All unearned interest and service shall be deducted.",
+    "Keywords":[
+      "Book",
+      "Debts",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Brand & Labels Clause",
+    "Content Type":"Condition",
+    "Limit":"Up to US$ 100,000",
+    "Description":"In the event of a claim for loss or damage to the property hereby insured, it is hereby declared and agreed that any salvage of branded stock and/or merchandise, being the Insured’s own property or held by them in trust or on commission and/or goods sold but not delivered shall not be disposed of by sale to third parties without the consent of the Insured.  If such salvage is not disposed of by sale, then the salvage value will be assessed at their fair market value and the insured shall retain the salvage at the assessed price.",
+    "Keywords":[
+      "Labels",
+      "Brand",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Burst of Pipes",
+    "Content Type":"Extension",
+    "Limit":"",
+    "Description": "BURST OF PIPE ENDORSEMENT (COMBINED WITH BURSTING OR OVERFLOWING OF THE WATER TANKS CLAUSE). The Insurance under this policy shall, subject to the special condition hereinafter contained, extend to include: Loss or damage to the property insured directly by bursting or overflowing of water tanks, apparatus or pipes, but excluding: (A) Destruction or damage caused by flood, subsidence or landslip; (B) Property in the open; (C) The first (CUR)X for each and every loss. Provided always that all the conditions of the Policy (except insofar as they may be hereby expressly varied) shall apply as if they have been incorporated herein and for the purpose hereof any destruction or damage as aforesaid shall be deemed to be loss or damage by fire. Special condition: This endorsement does not extend the insurance under this Policy to cover consequential loss or damage of any kind or description.",
+    "Keywords":[
+      "Burst",
+      "Pipes"
+    ]
+  },
+  {
+    "Name of Clause":"Cancellation Clause",
+    "Content Type":"Condition",
+    "Limit":"30 days",
+    "Description":"This insurance may be at any time terminated by the company by sending X days notice by registered letter to the insured at his last known address and in such event the premium shall be adjusted pro -rata for the portion of the period the policy has been in force.  Similarly, the policy may be cancelled at the request of the insured by sending X days notice to the company and in such event the premium shall be adjusted on short period rates for the portion of the period the policy has been in force – but subject also to the terms of any Long Term Agreement if applicable. Provided always no refund of premium shall be allowed under this policy upon cancellation if a claim has been admitted under this policy.",
+    "Keywords":[
+      "Cancellation Clause",
+      "30 Days"
+    ]
+  },
+  {
+    "Name of Clause":"Capital Additions Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to 10% of sum insured",
+    "Description":"The insurance by this Policy extends to cover alterations, additions and improvements (but not appreciation in value in excess of the sums insured) to property specified in the Policy for an amount not exceeding ten per cent of the sum insured on such property it being understood that the Insured undertake to advise the Company each quarter of any such alterations, additions and improvements and to pay the appropriate additional premium thereon.",
+    "Keywords":[
+      "Additions",
+      "Clause",
+      "Capital"
+    ]
+  },
+  {
+    "Name of Clause":"Civil Authority",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000/excess 7 days/maximum 30 days and limited to FLEXA only",
+    "Description":"Insurers shall be liable for loss, damage or destruction as covered hereunder by any peril insured against whilst access to location(s) of property described in The Schedule is prohibited by civil authority but only when such order is given as a direct result of a loss by a peril insured in the vicinity of the said location(s) max. within a radius of 1 km from such locations subject to a maximum indemnity period as specified in The Schedule..",
+    "Keywords":[
+      "Civil",
+      "Authority"
+    ]
+  },
+  {
+    "Name of Clause":"Cost of Alterations & Additions",
+    "Content Type":"Condition",
+    "Limit":"10% of sum insured per location, maximum US$ 2,000,000",
+    "Description":"It is hereby noted and agreed, that the structural alteration and extension of the buildings mentioned in this Policy is allowed, as are the erection of new building, installation, reinstallation, replacement of machines, tools, implements, piping or other installation and objects as well as to move all these within the premises. In case of removal or demolition of an insured object this insurance will cover the new items substituting the removed or demolished objects up to the original amount insured.",
+    "Keywords":[
+      "Additions",
+      "Cost",
+      "Alterations"
+    ]
+  },
+  {
+    "Name of Clause":"Debris Removal Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000",
+    "Description":"It is hereby declared and agreed that cover by this Policy extends to include costs and expenses reasonably incurred by the insured as a result of damage in:- 1) Removing debris or 2) Dismantling and/or demolishing III.   Shoring up or propping of the portion or portions of the property and/or 1) Removing debris of contents of any premises forming part of the property, such contents not being the property of the Insured. Subject to a limit of X% of the sum insured.",
+    "Keywords":[
+      "Debris",
+      "Clause",
+      "Removal"
+    ]
+  },
+  {
+    "Name of Clause":"Declaration Condition",
+    "Content Type":"Condition",
+    "Limit":"75%/30 days/25% of provisional premium",
+    "Description": "In consideration of the premium by Item(s) being provisional in that it is calculated on 75% of the sum insured hereby and is subject to adjustment on expiry of each period of insurance. The Insured agrees to declare to the Company in writing the value of his stocks, less any amount insured by policies other than declaration policies, on the following basis namely, the value at risk on a specified day of the month and to make such declaration within 30 days of the previous month, such declaration to be signed by the Insured or by a representative person authorized to sign on his behalf. If other policies on a declaration basis cover the stock hereby insured the declaration shall be made so as to apportion to each policy a share of the value of stocks insured under such declaration policies, pro rata to the respective amounts named in the Policies. In the event of a declaration not being made within 30 days mentioned above then the Insured shall be deemed to have declared the sum insured hereby as value at risk. On expiry of each period of insurance the premium shall be calculated at the rate agreed on the average sum insured, namely the total of the values declared or deemed to have declared divided by the number of declarations due to have been made. A. If the resultant premium be greater than the provisional premium the Insured shall pay the difference; if it be less the difference shall be repaid to the Insured but such repayment shall not exceed 25% of the provisional premium. B. If at the time of any loss, there be any other existing insurance or insurance on other than a declaration basis, whether effected by the Insured or by any other person or persons, covering the stocks hereby insured, this policy shall apply only to the excess of the value of such stocks at the time of the loss over the sum insured by such other insurance or insurances and this Company shall not be liable to pay or contribute more than that proportion of such loss which such excess (or, if there be other declaration insurance covering the same stocks, a rateable proportion of such excess), but not exceeding the sum insured hereby, bears to the total value of the stocks. C. If after the occurrence of a loss it is found that the amount of the last declaration previous to the loss is less than the amount that ought to have been declared, then the amount which would have been recoverable by the Insured shall be reduced in such proportion as the amount of the said last declaration bears to the amount that ought to have been declared. D. Notwithstanding the occurrence of a loss it is understood that the sum insured will be maintained at all times during the currency of the Policy and the Insured therefore undertakes to pay extra premium on the amount of any loss pro rata from the date of such loss to the expiry of the period of insurance, the premium being calculated at the rate applicable to stocks destroyed and such extra premium shall not be taken into account, and shall be distinct from the final adjustment of premium. E. In the event of this Policy being cancelled by the Insured during its currency (whether stocks exist or not) the premium to be retained by the Company shall be the appropriate short period premium calculated on the average amount insured up to the date of cancelment, or 50% of the provisional premium whichever is the greater; but if the Policy is cancelled by the Insured after a loss has occurred, the provisional premium paid shall be fully retained by the company. F. The maximum liability of the Company shall not exceed the sum insured hereby and premium shall not be receivable on values in excess thereof. The sum insured may, however, be increased by prior agreement with the Company in which event the new sum insured and the date from which it is effective will be recorded on the Policy by endorsement. G. If the property hereby insured shall at the time of occurrence of any loss or damage be collectively of greater value than the sum insured thereon, then the Insured shall be considered as being his own Insurer for the difference, and shall bear a rateable proportion of the loss accordingly. Provided, however, that in the adjustment of any loss or damage no inventory for the purpose of ascertaining the application of the foregoing clause shall be required unless the amount of damage is at least five per centum (5%) of the amount of the insurance. Every item, if more than one, of the Policy, shall be separately subject to this condition. H. It is warranted that every other Policy on a declaration basis covering the stocks insured hereby shall be identical in wording with this Policy. I. THIS insurance is subject in all respects to the printed conditions of the Policy except insofar as they may be varied by these Special Conditions.",
+	"Keywords":[
+      "Condition",
+      "Declaration"
+    ]
+  },
+  {
+    "Name of Clause":"Denial of Access",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000/excess 7 days/maximum 30 days and limited to FLEXA only",
+    "Description":"This extension indemnifies the insured for the loss that results from inaccessibility to the premises as a result of property damage. Interruption can also be caused not by damage to premises but damage from a property  within  the  immediate  vicinity. The cover provided by the basic denial of access extension can be widened to cover such losses. This is known as denial of access- Loss of attraction cover.",
+    "Keywords":[
+      "Denial",
+      "Access"
+    ]
+  },
+  {
+    "Name of Clause":"Duty Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 10,000",
+    "Description":"The Insurer will also reimburse the Insured for customs and excise duties, import taxes, freight, insurance and  similar charges  in respect of the  procurement of  goods, materials and services for replacement, restoration or decommissioning.",
+    "Keywords":[
+      "Duty",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Error & Omission Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000",
+    "Description":"This Policy extends to cover the Insured for an amount not exceeding X percent (X%) of the sum insured hereby  for  any  one  item,  in  respect  of  inadvertent  under-insurance  or  incorrect  valuation  by “bona fide” error, accidental omission to insure any extension or addition to buildings and/or contents (other than stock-in-trade if insured on a declaration basis) during the currency of this Policy.  This extension applies on condition that the insured undertakes to advise the company each quarter of any such errors and omissions, and to pay the appropriate additional premium therein, and in any event the total amount payable shall not exceed the sum insured under the Policy..",
+    "Keywords":[
+      "Error",
+      "Omission",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Expediting Expenses Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to 10% of claim amount with maximum of US$ 100,000",
+    "Description":"At the option of the Insured this policy is extended to cover any extra costs incurred in respect of expenses, delivery, airfreight, overtime and holiday rates of pay in connection with reinstatement, rectification, repair or replacement, necessarily incurred following destruction of or damage to property by a peril hereby insured against, subject however to a limit of X% of the amount which the repair or replacement would have cost if the extra expenses had not been incurred. In any event the total amount payable shall not exceed the sum insured under the Policy.",
+    "Keywords":[
+      "Expediting",
+      "Clause",
+      "Expenses"
+    ]
+  },
+  {
+    "Name of Clause":"Fire Brigade Charges/Extinguishing Expenses",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000",
+    "Description":"It is agreed and understood that subject to the Insured having paid the agreed additional premium, this Policy shall be extended to cover the Insured’s for extinguishing expenses which should be necessarily and reasonably incurred in extinguishing fires at the premises, subject to the following limits of liability during the period insurance.This Clause is subject otherwise to the terms, conditions and exceptions of this Policy. Limit of Indemnity ( a. o. a. ) Aggregate limit of indemnity.",
+    "Keywords":[
+      "Expenses",
+      "Extinguishing",
+      "Brigade",
+      "Fire",
+      "Charges"
+    ]
+  },
+  {
+    "Name of Clause":"General Interest Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to insured value",
+    "Description":"It is hereby declared and  agreed that the sum insured in respect of Machinery and Plant  is extended to  include miscellaneous fuel and other tanks and their contents in the open.",
+    "Keywords":[
+      "Interest",
+      "General",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Plate Glass Breakage Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 50,000",
+    "Description":"This policy insures glass of all kinds, plain, plate or ornamented. The Insurer will indemnify the Insured by payment or at its option by reinstatement against breakage of the Glass Insured. Subject always to the terms, exceptions and conditions contained in this policy and the indemnity being limited to (CUR)X in each and every loss.The insurer will also pay to the insured the reasonable cost of any necessary boarding up incurred in consequence of such breakage.",
+    "Keywords":[
+      "Clause",
+      "Glass",
+      "Breakage",
+      "Plate"
+    ]
+  },
+  {
+    "Name of Clause":"Goods held in Trust Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000",
+    "Description":"It is hereby declared and agreed that cover under this Policy is extended to include goods held in trust and for which the Insured may be legally responsible for an amount not exceeding  (CUR) X any one event.",
+    "Keywords":[
+      "Trust",
+      "Goods",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Hazardous Goods",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 50,000",
+    "Description":"It is hereby declared that a small number of Hazardous goods (subject to such limitations or prohibition as may be imposed by the Warranty or otherwise herein or by Official Regulations) may be stored in that portion of the building within described which is in the occupation of the Insured, but it is nevertheless Warranted by the Insured that during the currency of this Policy the value of such permitted Hazardous Goods shall not exceed X per cent of the value of all goods stored therein.",
+    "Keywords":[
+      "Hazardous",
+      "Goods"
+    ]
+  },
+  {
+    "Name of Clause":"Hours Clause",
+    "Content Type":"Condition",
+    "Limit":"72 hours",
+    "Description":"All damage occurring within 72 (seventy-two) consecutive hours of an earthquake and arising solely from the seismic activity is deemed to be one event for the purpose of determining Insurers' liability.",
+    "Keywords":[
+      "Hours Clause",
+      "72 Hours"
+    ]
+  },
+  {
+    "Name of Clause":"Impact Damage",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000",
+    "Description":"Policy is extended to cover : Damage to the property insured directly resulting from actual physical contact of a vehicle with the property insured hereunder or with the building containing such property. Provided that the Insurer shall not be liable for any damage caused : i) By any vehicle owned or operated by the Insured or by any tenant of the insured premises ii) To fences, driveways, walk ways or lawns iii) To any other vehicle including its contents, other than stock of vehicles in process of manufacture or for sale. For the purpose of this Endorsement, “vehicle” shall mean any Vehicle running or land or tracks but not aircraft. It is further agreed that for each and every loss recoverable hereunder, the Insured shall bear CUR X.",
+    "Keywords":[
+      "Impact",
+      "Damage"
+    ]
+  },
+  {
+    "Name of Clause":"Increased Costs of Construction",
+    "Content Type":"Condition",
+    "Limit":"Up to US$ 100,000",
+    "Description":"This Policy is also extended to cover the increased cost of repair, rebuilding or construction of the building(s) on the same premises of like height, floor area and style and for like occupancy, caused by loss from any insured peril under this Policy and resulting from the enforcement of and limited to minimum requirements of any state or municipal law or ordinance regulating the construction or repair of damaged building(s).This extension of coverage does not increase the Indemnity of the i nsurer under the Policy.",
+    "Keywords":[
+      "Increased",
+      "Construction",
+      "Costs"
+    ]
+  },
+  {
+    "Name of Clause":"Increased Costs of Working",
+    "Content Type":"Condition",
+    "Limit":"Up to US$ 100,000",
+    "Description":"The additional expenditure necessarily and reasonably incurred for the sole purpose of avoiding or diminishing the reduction in Gross Revenue/Turnover which but for that expenditure would have taken place during the Indemnity Period in consequence of the Damage, but not exceeding the amount of reduction in Gross Revenue thereby avoided. Less any sum saved during the Indemnity Period in respect of such of the charges and expenses of the Business payable out of Gross revenue/Turnover as may ceased or be reduced in consequence of the Damage.",
+    "Keywords":[
+      "Working",
+      "Increased",
+      "Costs"
+    ]
+  },
+  {
+    "Name of Clause":"Inland Transit Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000 within same country",
+    "Description":"This Insurance covers The Insured's property excluding Stock, Finished Goods and Raw Materials against the perils covered under this Policy whilst in transit by road, rail or inland waterway within the Geographical limits specified in The Schedule, which is being temporarily removed for cleaning,  renovation,  repair  or  maintenance  and  in  as much as it is not indemnifiable under a more specific Policy and limited for each and every loss as per sublimit shown in The Schedule.",
+    "Keywords":[
+      "Inland",
+      "Transit",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Landlords Fixtures & Fittings Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 250,000",
+    "Description":"The insurance by this policy is extended to include all landlord’s fixtures and fittings in or on the buildings insured.",
+    "Keywords":[
+      "Landlord",
+      "Fixtures",
+      "Clause",
+      "Fittings"
+    ]
+  },
+  {
+    "Name of Clause":"Landlords/Tenants Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 250,000",
+    "Description":"Insurance hereby shall not be prejudice by any act or omission unknown to or beyond the control of the Insured on the part of any tenant occupying or using the premises, provided that the Insured immediately they become aware thereof, shall give notice in writing to the Company(s) and pay additional premium if required.",
+    "Keywords":[
+      "Landlord",
+      "Tenant",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Landscaping Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 50,000",
+    "Description":"This policy extends to include cover for loss, damage or damage to landscaping works, including but not limited to trees, shrubs and plants and their containers, lighting and irrigation systems, hard landscaping, statues and sculptures.",
+    "Keywords":[
+      "Landscaping",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Leakage and Contamination Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 50,000",
+    "Description": "Any loss or destruction or damage, nor any consequential loss of whatsoever nature resulting or arising therefrom, caused by pollution or contamination except (unless otherwise excluded): a) Destruction of or damage to the Property Insured caused by: i. Pollution or contamination which itself results from fire, lightning, explosion, aircraft or other aerial devices or articles dropped therefrom, riot, civil commotion, strikers, locked out workers, persons taking part in labour disturbances, malicious persons, earthquake, storm, flood, bursting, overflowing, discharging or leaking of water tanks, apparatus or pipes, sprinkler leakage or impact by any road vehicle or animal. ii. Any of the perils listed in a.i. above which itself results from pollution or contamination. b) Loss resulting from destruction of or damage to any building or other property or any part thereof used by the Insured at the Premises for the purpose of the Business caused by: i. Pollution or contamination at the Premises which itself results from any of the perils listed in a.i. above. ii. Any of the perils listed in a.i. above which itself results from pollution or contamination.",
+    "Keywords":[
+      "Leakage",
+      "Contamination",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Locks & Keys",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 500",
+    "Description":"If the master keys are stolen or if there are reasonable grounds to believe that the master keys may have been duplicated Notwithstanding anything contained in this policy to the contrary if as a consequence of any event giving rise to a claim hereunder, tcated, the Insurer (s) will indemnify the Insured in respect of the cost of replacing locks and/or keys, provided that the total liability of the Insurer (s) during any one period of insurance for all such costs is limited to  (CUR)X.",
+    "Keywords":[
+      "Locks",
+      "Keys"
+    ]
+  },
+  {
+    "Name of Clause":"Loss Payee Clause",
+    "Content Type":"Condition",
+    "Limit":"Maximum 15 days",
+    "Description":"It is hereby declared and agreed that the payment in respect of any claim which is indemnifiable under the terms of the Policy shall be made to and their receipts shall be a full and final discharge to the Company. The Company reserves the right to cancel this Policy at any time as provided by the terms thereof, but in such case this policy shall continue in force for the benefit only of the Morgagees or said Assignees for X days after notice to the Mortgagees or said Assignees of suc h cancellation and shall then cease and the company shall have the right on like notice to cancel this agreement.",
+    "Keywords":[
+      "Loss",
+      "Clause",
+      "Payee"
+    ]
+  },
+  {
+    "Name of Clause":"Loss Reduction/Loss Prevention",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000",
+    "Description":"The indemnity provided by this Policy includes cost and expenses incurred in: 1) Preventing or reducing losses to the property in the event of imminent damage by any of the perils and 2) Reducing losses to the property on or after the occurrence of any of the perils. Provided that such costs and expenses will not exceed the amount of loss thereby avoided, but in any event the total amount payable shall not exceed the sum insured under the Policy.",
+    "Keywords":[
+      "Prevention",
+      "Loss",
+      "Reduction"
+    ]
+  },
+  {
+    "Name of Clause":"Malicious Damage",
+    "Content Type":"Extension",
+    "Limit":"Up to total sum insured for GCC / Up to 25% for Jordan",
+    "Description":"As per LM7",
+    "Keywords":[
+      "Malicious",
+      "Damage"
+    ]
+  },
+  {
+    "Name of Clause":"Minor Works",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000",
+    "Description":"Cover extended to include loss or damage to materials on site and works in progress at insured premises in respect of any minor construction/refurbishment contracts having a value less than (CUR)X. Contractors and sub-contractors are deemed joint insured's for the purposes of this extension. Normal excess shall apply.",
+    "Keywords":[
+      "Minor",
+      "Works"
+    ]
+  },
+  {
+    "Name of Clause":"Mortgage Clause",
+    "Content Type":"Extension",
+    "Limit":"N/A",
+    "Description":"The interest of any mortgage in the insurance under this section shall not be prejudiced by any act or omission on the part of the mortgagor without the mortgage’s knowledge. The mortgage shall, however, inform the company as soon as any such act or omission comes to his knowledge and shall be responsible for any additional premium payable from the date any increased hazard shall, in terms of this clause, be assumed by the company.",
+    "Keywords":[
+      "Mortgage",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Other Contents Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 10,000",
+	"Description": "It is agreed that the terms 'Other Contents' is understood to include: a) Money and Stamps not otherwise specifically insured for an amount not exceeding (CUR)X. b) Documents, manuscripts and business books but only for the value of the materials as stationery, together with the cost of clerical labour expended in writing up, and not the value to the Insured of the information contained therein, and for an amount not exceeding (CUR)X in respect of any one document, manuscript or business book. c) Computer system records but only for the value of the materials together with the cost of clerical labour and computer time expended in reproducing such records (excluding any expenses in connection with the production of information to be recorded herein) and not for the value to the Insured of the information contained therein, for an amount not exceeding (CUR)X. d) Patterns, models, moulds, plans and designs for an amount not exceeding (CUR)X in respect to any one pattern, model, mould, plan or design. And so far as they are not otherwise insured; e) Employee's pedal cycles, clothing, tools, and other personal effects for an amount not exceeding (CUR)X in respect of any one Employee.",
+    "Keywords":[
+      "Contents",
+      "Other",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Other Tenants Clause",
+    "Content Type":"Condition",
+    "Limit":"N/A",
+    "Description":"It is hereby declared and agreed that should a tenant of the insured in the within insured building do or omit to do, without the knowledge of the insured, anything which would vitiate the within policy conditions and/or warranties, this policy will not be held to be void on that account provided that the insured shall notify to the company the happening or existence of such act or omission as soon as the same shall on reasonable demand pay the additional charge for any increase of hazard thereby created according to the established scale of rates.  For the item such increased hazard may be or shall have been assumed by the company during the continuance of this insurance.",
+    "Keywords":[
+      "Tenants",
+      "Other",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Payment on Account",
+    "Content Type":"Condition",
+    "Limit":"Up to 75%",
+    "Description":"It is hereby declared and agreed that in the event of the occurrence of a loss under this insurance, the Company having admitted liability for such loss or damage, may make payment on account in respect of such loss to the Insured.",
+    "Keywords":[
+      "Account",
+      "Payment"
+    ]
+  },
+  {
+    "Name of Clause":"Professional Accountant Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000",
+    "Description":"This clause covers the insured for the extra cost incurred by the insured in hiring professional accountants to verify the books of the insured for the purpose of investigating the claim payable under the Business interruption section of the policyThe Limit of liability should not, however, exceed the limit stated in the policy or up to a specified amount.",
+    "Keywords":[
+      "Professional",
+      "Accountant",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Property Valuation Clause",
+    "Content Type":"Extension",
+    "Limit":"N/A",
+    "Description":"The Company will pay the Named Insured the amount the Named Insured spends to repair or replace the property directly damaged by an Accident. The Company payment will be the smallest of: 1) The Limit of Insurance; 2) The cost at the time of the Accident to repair the damaged property with property of like kind, capacity, size and quality; 3) The cost at the time of the Accident to replace the damaged property on the same site with other property: (a) Of like kind, capacity, size and quality; and (b) Used for the same purpose; 4) The amount the Named Insured actually spends that is necessary to repair or replace the damaged property. 5) As respects any Object if the cost of repairing or replacing only a part of the Object is greater than: (a) the cost of repairing the Object; or (b) the cost of replacing the entire Object on the same site’.",
+    "Keywords":[
+      "Property",
+      "Valuation",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Public Authority Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000",
+    "Description": "The insurance by item(s) of this Policy extends to include such additional cost of reinstatement of the destroyed or damaged property thereby insured as may be incurred solely by reason of the necessity to comply with Building or other Regulations under or framed in pursuance of any Ordinance or with By-Laws of any Municipal or Local Authority provided that: 1. The amount recoverable under this Extension shall not include: a) The cost incurred in complying with any of the aforesaid Regulations or By-Laws: i. In respect of destruction or damage occurring prior to the granting of this extension; ii. In respect of destruction or damage not insured by this Policy; iii. Under which notice has been served upon the Insured prior to the happening of the destruction or damage; iv. In respect of undamaged property or undamaged portions of property. b) The additional cost that would have been required to make good the property damaged or destroyed to a condition equal to its condition when new had the necessity to comply with any of the aforesaid Regulations or By-Laws not arisen. c) The amount of any rate, tax, duty, development or other charge or assessment arising out of capital appreciation which may be payable in respect of the property or by owners thereof by reason of compliance with any of the aforesaid Regulations or By-Laws. 2. The work of reinstatement must be commenced and carried out with reasonable dispatch and in any case must be completed within twelve months after the destruction or damage or within such further time as the Insurer(s) may (during the said twelve months) in writing allow and may be carried out wholly or partially upon another site (if aforesaid Regulations or By-Laws so necessitate), subject to the liability of the Insurer(s) under this Extension not being thereby increased. 3. If the liability of the Insurer(s) under any item of the Policy apart from this Extension shall be reduced by the application of any of the terms and conditions of the Policy, then the liability of the Insurer(s) under the Extension (in respect of any such item) shall be reduced in like proportion. 4. The total amount recoverable under any item of the Policy shall not exceed the Sum Insured thereby. 5. All the conditions of the Policy except insofar as they may be hereby expressly varied shall apply as if they had been incorporated herein.",
+    "Keywords":[
+      "Authority",
+      "Public",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Public Utility Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to USD 2.5M",
+    "Description":"Any loss as insured by this policy resulting from interruption of or interference with the Business in consequence of loss destruction or damage at the undernoted situations or to property as undernoted shall be deemed to be an incident. Property at any (a) Generating station or sub-station of the public electricity supply undertaking (b) Land based premises of the public gas supply undertaking or of any natural gas producer linked directly therewith (c) Water works or pumping station of the public water supply undertaking (d) Land based premises of the public telecommunications undertaking (e) from which the Insured obtains (electricity) (gas) (water) or (telecommunications services) all the Country.",
+    "Keywords":[
+      "Utility",
+      "Public",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Removal of Documents",
+    "Content Type":"Extension",
+    "Limit":"Up to USD 10,000",
+    "Description":"Notwithstanding anything herein stated to the contrary, the insurance by this policy applying wholly or partly to deeds and other documents (including stamps thereon), manuscripts, plans and writing of every description and books (written and printed) extends to cover such property for an amount not ex ceeding X per cent of the value thereof, whilst temporarily removed to any premises not in the Insured occupation whilst in transit by road, rail or inland waterways, anywhere in 'Country'.",
+    "Keywords":[
+      "Documents",
+      "Removal"
+    ]
+  },
+  {
+    "Name of Clause":"Rental Value Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to declared values",
+    "Description":"The Insurer will pay for the loss of rent as provided under this Policy of certain buildings as required under the terms of the respective leases. The coverage on rent applies if the said building or any part thereof is unfit for occupation in consequence of physical loss or damage by an insured peril and then the amount payable will not exceed such proportion of the rent as the period necessary for reinstatement bears to the period of rent insured, but not to exceed the Indemnity Period applying to this extension of coverage..",
+    "Keywords":[
+      "Value",
+      "Rental",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Replacement Clause",
+    "Content Type":"Condition",
+    "Limit":"No limit",
+    "Description":"“Replacement Cost” shall mean the cost of repairing, replacing, constructing or reconstructing (whichever is the least) the property on the same site, using new materials of like kind and quality and for like occupancy without deduction for depreciation, subject to the following: (i) Until the property is actually repaired, replaced or reconstructed, the maximum amount recoverable shall be the actual cash value of the lost or damaged property; (ii) Replacement shall be effected by the Named Insured with due diligence and dispatch; (iii) Replacement need not be on same site, or of same or similar construction or occupancy provided that the Company shall not be liable for any additional costs that are directly attributable to the inclusion of this provision. (iv) For historical buildings as more specifically defined in this Section. (v) In no event shall the Company’s liability exceed the amount actually and necessarily expended in repairing or replacing (whichever is less) Covered Property or any part thereof. It is understood and agreed that as respects replacement cost, the Named Insured shall have the option of replacement with electrical and mechanical equipment having technological advantages and/or representing an improvement in function and/or forming part of a program of system enhancement provided that such replacement can be accomplished without increasing the Company's liability. The Company shall be allowed to dispose of, as salvage, any non-proprietary property deemed unusable by the Named Insured. In the event the Named Insured should fail to comply with any of the foregoing provisions settlement shall be made as if this Replacement Cost provision had not been in effect.",
+    "Keywords":[
+      "Replacement",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Safety Measures",
+    "Content Type":"Condition",
+    "Limit":"No limit",
+    "Description":"It is agreed and understood that otherwise subject to the terms, exclusions, provisions and conditions contained in the Policy or endorsed thereon, the Insurers shall only indemnify the Insured for the loss, damage or liability directly or indirectly caused by flood and inundation if adequate safety measures have been taken during the planning and execution of the project. Adequate safety measures in this context shall mean that the average monthly rain, flood and inundation hazard as known from statistics of the competent meteorological office for the respective month and location has been taken into account’.",
+    "Keywords":[
+      "Safety",
+      "Measures"
+    ]
+  },
+  {
+    "Name of Clause":"Sale of Interest Clause",
+    "Content Type":"Condition",
+    "Limit":"No limit",
+    "Description":"Condition.",
+    "Keywords":[
+      "Interest",
+      "Sale",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Signs & Decoration",
+    "Content Type":"Extension",
+    "Limit":"Up to 100,000",
+    "Description":"Provided values are declared in Sums insured.",
+    "Keywords":[
+      "Decoration",
+      "Signs"
+    ]
+  },
+  {
+    "Name of Clause":"Sprinkler Leakage",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000",
+    "Description":"In consideration of the Insured named in the Schedule hereto paying to the Company, the first premium mentioned in the said Schedule, the Company agrees (subject to the Conditions contained herein or endorsed or otherwise expressed hereon which Conditions shall so far as the nature of them respectively will permit be deemed to be conditions precedent to the right of the Insured to recover hereunder) that if after payment of the premium the Insured Property described in the said Schedule, or any part of such Insured Property, be destroyed or damaged by Water discharged or leaking from the Automatic Sprinkler Installation in the premises named  in the said Schedule at  any time  before 12 midnight of the last  day of the period of insurance named in the said Schedule or of any subsequent period in respect of which the Insured shall have paid and the Company shall have accepted the premium required for the renewal of this Policy, the Company will pay to the Insured the value of the property at the time of the ha ppening of its destruction or the amount of such damage or at its option reinstate or replace such property or any part thereof. PROVIDED THAT such discharge or leakage of water shall be accidental and shall not be occasioned by or happen through– (a) Heat caused by fire. (b) Repairs or alterations to the buildings or premises. (c) Sprinkler Installation being required, removed or extended. (d) Freezing in the event of the premises being vacant or unoccupied, or freezing due to the neglect of the Insured. (e) The order of the Government or of any municipal, local or other competent Authority. (f) Volcanic Eruptions, Earthquake,  Subterranean Fire,  Riot,  Civil Commotion,  War,  Invasion,  Act of Foreign Enemy, Hostilities (whether war be declared or not), Civil War, Rebellion, Revolution, Insurrection or Military or Usurped Power. (g) Explosion, the blowing -up of Buildings or Blasting. (h) Defects in construction or condition of which the Insured is aware. AND PROVIDED that the liability of the Company shall in no case exceed the sum insured specified in the Schedule.",
+    "Keywords":[
+      "Leakage",
+      "Sprinkler"
+    ]
+  },
+  {
+    "Name of Clause":"Strike, Riots, Civil Commotion and Malicious Damage",
+    "Content Type":"Extension",
+    "Limit":"Up to 50% of total sum insured for GCC; 25% for others, max USD 20mn",
+    "Description":"Riot or civil commotion; Vandalism or malicious mischief; or   Accidental discharge of fire protection equipment. This coverage is subject to all limitations of the Policy and, in addition, to each of the following specific limitations: (1) The said property must be insured for physical loss or damage by that Listed Peril. (2) The Insured must report to the Company the  existence  and  cost of the  physical  cost of  damage by mold, mildew, fungus or spores as soon as practicable, but no latter than six (6) months after the Listed Peril first caused any  physical loss or damage to such Insured Property during the policy period. This Policy does not insure any physical loss or damage by mold, mildew, fungus or spores first reported to the insurer after six (6) months period. (3) Except as set forth in the foregoing Section (a), this Policy does not insure any loss, damage, claim, cost, expense or other sum directly or indirectly arising out of or relating to mold, mildew, fungus, spores of any type, nature or description.",
+    "Keywords":[
+      "Malicious",
+      "Commotion",
+      "Strike",
+      "Damage",
+      "Riots",
+      "Civil"
+    ]
+  },
+  {
+    "Name of Clause":"Subsidence Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 200,000",
+	"Description": "It is hereby declared and agreed that notwithstanding anything contained to the contrary, the insurance Policy shall extend to include destruction or damage by fire or otherwise of or to the Property Insured directly caused by natural calamity resulting in subsidence or heave. Provided that: 1. The Insurer shall not be liable for destruction or damage as aforesaid caused by or attributable to: a) Faulty design or construction of or removal of or weakening of supports to any building described in the Policy; b) Workmen engaged in making any structural alterations, additions, or repairs to building described in the Policy; c) Excavations on or under land. 2. The Insurer shall not be liable for damage due to mere cracking or settlement of the building nor for any loss unless the entire building or part thereof has collapsed through: a) Subsidence, when the ground below a building moves causing uneven settlement of the structure and resultant cracking or damage; b) Ground heave, which is the opposite—when the building site moves upwards with the same result; c) Landslip, the rapid downward movement of land under the influence of gravity. 3. The Insurer shall not be liable for consequential loss of any kind whatsoever except loss of rent when specifically insured under the Policy. 4. The Insured shall bear the first proportion of each and every loss claim up to an amount specified in the Schedule. 5. It is a condition of this insurance that the Insured undertakes to exercise all ordinary and reasonable precautions for the maintenance and safety of the property.",
+    "Keywords":[
+      "Subsidence",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Tenants Improvement",
+    "Content Type":"Extension",
+    "Limit":"Up to US$ 100,000",
+    "Description":"The insurance by this Policy extends to include tenants improvements and alteration to Landlord’s property insofar as the Insured is responsible thereof.",
+    "Keywords":[
+      "Improvement",
+      "Tenant"
+    ]
+  },
+  {
+    "Name of Clause":"Waiver of Electrical Clause",
+    "Content Type":"Extension",
+    "Limit":"Up to 10% of total sum insured",
+    "Description":"Loss or damage by fire to the Property Insured arising from or occasioned by overrunning, excessive pressure, short-circuiting, arcing, self-heating, leakage of electricity including all loss or damage by lightning to the Property Insured is covered, subject to the terms and conditions of this Policy.",
+    "Keywords":[
+      "Waiver",
+      "Electrical",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Waiver of Subrogation Clause",
+    "Content Type":"Extension",
+    "Limit":"No limit",
+    "Description":"Notwithstanding anything contained in this Policy to the contrary it is hereby declared and agreed that in the event of any claim the Company will not exercise its subrogation rights against any parties as stated in the name of Insured. Subject otherwise to the terms, conditions and exceptions of this Policy.",
+    "Keywords":[
+      "Waiver",
+      "Subrogation",
+      "Clause"
+    ]
+  },
+  {
+    "Name of Clause":"Workmen’s Clause",
+    "Content Type":"Extension",
+    "Limit":"No limit",
+    "Description":"Workmen are allowed to work in said Buildings for the purposes of completing any repairs and/or minor additions and alterations and/or decorations without prejudice to this Insurance.",
+    "Keywords":[
+      "Workmen's",
+      "Clause"
+    ]
+  }
+]

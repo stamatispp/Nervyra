@@ -1,0 +1,27 @@
+{
+  "stamatis": {
+    "department": "Administration",
+    "salt": "bd88b7adfd20ece8a8a1577df53357d7",
+    "hash": "abae5d17991c41cb4ddc45403ab787f077b9cd8848622638ef16d7a6c14de38a"
+  },
+  "osama": {
+    "department": "Property / Special Risks",
+    "salt": "e18e2d736eceff402aaa92612414a895",
+    "hash": "4faa94d5817e2f66c39344ead72bf9c2cb7c0a19822818ef3bb11757d3423889"
+  },
+  "maria": {
+    "department": "Liability",
+    "salt": "26e3a56c8e962838ea33cc56199584e7",
+    "hash": "bca680ab49b3b62392b3b94a085fe0f8b9609e27e21ac7f00dd8ba422099c028"
+  },
+  "konstantina": {
+    "department": "Property / Special Risks",
+    "salt": "7003d67ed4e4f760b20e9930da536562",
+    "hash": "7b7971c6deb60737f6515781c974a53b1706a827d36be8c4344b9216a892e435"
+  },
+  "katerina": {
+    "department": "Property / Special Risks",
+    "salt": "aef4cdc8a2399ccc6765e58e79820776",
+    "hash": "751ad48e7ec6b120a6fddfab5aeb85a036a210b07576dfbff857b41d9e604787"
+  }
+}

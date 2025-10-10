@@ -1,0 +1,14 @@
+[
+  {
+    "Name of Clause": "Example SwiftRE Clause",
+    "Limit": "Up to US$ 250,000",
+    "Description": "This is a sample SwiftRE clause description. Replace with actual wording.",
+    "Keywords": ["natural", "disaster", "catastrophe"]
+  },
+  {
+    "Name of Clause": "Another SwiftRE Clause",
+    "Limit": "As per policy",
+    "Description": "Another placeholder clause for SwiftRE. Replace with real content.",
+    "Keywords": ["terrorism", "coverage"]
+  }
+]
