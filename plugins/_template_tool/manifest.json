@@ -1,0 +1,12 @@
+{
+  "id": "my_tool",
+  "name": "My Tool",
+  "description": "What this tool does.",
+  "category": "General",
+  "icon": ":/icons/icon.ico",
+  "entrypoint": "my_package.my_module:main",
+  "allowed_departments": [
+    "Property"
+  ],
+  "admin_only": false
+}

@@ -27,7 +27,6 @@ echo [INFO] Using Python launcher: %PY%
 REM ===== Clean old outputs =====
 if exist build  (rmdir /s /q build)  >> "%LOG%" 2>&1
 if exist dist   (rmdir /s /q dist)   >> "%LOG%" 2>&1
-if exist Nervyra.spec del /f /q Nervyra.spec >> "%LOG%" 2>&1
 
 REM ===== Ensure dependencies =====
 echo [INFO] Ensuring pip/pyinstaller/PySide6 are installed...
@@ -63,13 +62,8 @@ if not exist "icon.ico" (
 )
 
 REM ===== Build EXE =====
-echo [INFO] Building Nervyra (onefile)...
-%PY% -m PyInstaller ^
-  --name "Nervyra" ^
-  --onefile ^
-  --windowed ^
-  --icon "icon.ico" ^
-  "main.py" || goto :fail
+echo [INFO] Building Nervyra (onefile) using the spec (includes JSON data)...
+%PY% -m PyInstaller --clean --noconfirm "Nervyra.spec" || goto :fail
 
 set "BUILD_EXE=%cd%\dist\Nervyra.exe"
 if not exist "%BUILD_EXE%" (
